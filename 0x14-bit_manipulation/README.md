@@ -1,4 +1,4 @@
 # **0x14. C - Bit manipulation**
 
-## Sibongukwanda
+## Liksaselihle
 
